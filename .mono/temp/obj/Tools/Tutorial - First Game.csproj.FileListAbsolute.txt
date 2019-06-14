@@ -1,0 +1,6 @@
+C:\Users\Saargston\Godot\First Game\.mono\temp\bin\Tools\Tutorial - First Game.dll
+C:\Users\Saargston\Godot\First Game\.mono\temp\bin\Tools\Tutorial - First Game.pdb
+C:\Users\Saargston\Godot\First Game\.mono\temp\obj\Tools\Tutorial - First Game.csprojAssemblyReference.cache
+C:\Users\Saargston\Godot\First Game\.mono\temp\obj\Tools\Tutorial - First Game.csproj.CoreCompileInputs.cache
+C:\Users\Saargston\Godot\First Game\.mono\temp\obj\Tools\Tutorial - First Game.dll
+C:\Users\Saargston\Godot\First Game\.mono\temp\obj\Tools\Tutorial - First Game.pdb

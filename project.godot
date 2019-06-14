@@ -16,7 +16,13 @@ _global_script_class_icons={
 [application]
 
 config/name="Tutorial - First Game"
+run/main_scene="res://Player.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=480
+window/size/height=720
 
 [rendering]
 
